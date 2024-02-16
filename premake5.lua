@@ -6,7 +6,7 @@ VendorPaths = {}
 Includes = {}
 -- Includes["glm"] = "%{VendorPaths.glm}"
 
-workspace "Template"
+workspace "TemplateProject"
     architecture "x64"
 
     configurations
