@@ -1,5 +1,6 @@
 project "TemplateProject"
-    kind "StaticLib"
+    -- kind "StaticLib"
+    kind "ConsoleApp"
     language "C++"
     cppdialect "C++20"
 
